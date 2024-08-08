@@ -1,0 +1,25 @@
+{
+  "eventHeader": {
+    "eventIdentifier": "9899898-3-3433-3234--3-3232-343-4-43",
+    "eventType": "SDBL-contract",
+    "majorSchemaVersion": "1",
+    "minorSchemaVersion": "0",
+    "eventDateTime": "2022-09-98"
+  },
+  "keys": [
+    {
+      "keyField" : "filmIdentifier",
+      "keyValue" : "879877878"
+    }
+  ],
+  "payload": {
+    "filmIdentifier": {
+        "operation" : "INSERT",
+        "newValue": "9889898"
+        },
+    "descriptionIdentifier": {
+        "operation" : "INSERT",
+        "newValue": "bdl"
+        }
+  }
+}
